@@ -1,7 +1,5 @@
 Hướng dẫn cài đặt guacamole làm remote server
 =============
-# guacamole
-
 wget https://raw.githubusercontent.com/luudinhmac/guacamole/main/guac-install.sh
 
 chmod +x guac-install.sh
