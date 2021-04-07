@@ -1,4 +1,5 @@
 Hướng dẫn cài đặt guacamole làm remote server
+=============
 # guacamole
 
 wget https://raw.githubusercontent.com/luudinhmac/guacamole/main/guac-install.sh
@@ -47,6 +48,7 @@ proxy_cookie_path /guacamole/ /;
 }
 
 Kích hoạt virtual host nginx
+=============
 
 ln -s /etc/nginx/sites-available/guacamole.conf /etc/nginx/sites-enabled/
 
