@@ -1,4 +1,4 @@
-Hướng dẫn cài đặt guacamole làm remote gateway server
+Hướng dẫn cài đặt guacamole làm remote gateway server trên ubuntu 18.04
 =============
 wget https://raw.githubusercontent.com/luudinhmac/guacamole/main/guac-install.sh
 
