@@ -7,8 +7,8 @@ chmod +x guac-install.sh
 ./guac-install.sh
 
 
-Cài đặt NGIXN làm Reverse Proxy
-==
+#Cài đặt NGIXN làm Reverse Proxy
+
 apt-get install nginx -y
 
 nano /etc/nginx/sites-available/guacamole.conf
