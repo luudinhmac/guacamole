@@ -1,6 +1,6 @@
 # guacamole
 
-wget https://raw.githubusercontent.com/MysticRyuujin/guac-install/master/guac-install.sh
+wget https://raw.githubusercontent.com/luudinhmac/guacamole/main/guac-install.sh
 
 chmod +x guac-install.sh
 
