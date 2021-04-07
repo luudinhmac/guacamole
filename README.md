@@ -1,4 +1,4 @@
-Hướng dẫn cài đặt guacamole làm remote server
+Hướng dẫn cài đặt guacamole làm remote gateway server
 =============
 wget https://raw.githubusercontent.com/luudinhmac/guacamole/main/guac-install.sh
 
